@@ -1,0 +1,1 @@
+std::result::Result<std::sync::Arc<std::sync::Mutex<std::sync::mpsc::Receiver<std::boxed::Box<(dyn std::ops::FnOnce() + std::marker::Send + 'static)>>>>, std::boxed::Box<(dyn std::any::Any + std::marker::Send + 'static)>>
